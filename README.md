@@ -33,9 +33,11 @@ Screenshort : https://github.com/Comhek0369/Task-1--Data-Cleaning-and-Preprocess
 
 Cleaned:<a href= "https://github.com/Comhek0369/Task-1--Data-Cleaning-and-Preprocessing/blob/main/Cleaned_Netflix_dataset.csv"> clean Netflix Dataset</a>
 ## Repository Structure
-├── netflix_cleaning.ipynb      # Main Jupyter notebook
-├── raw_data.csv                # Original dataset
-├── cleaned_data.csv            # Cleaned dataset
-├── README.md                   # This file
+├── Cleaned_Netflix_dataset-checkpoint      # Main Jupyter notebook
+
+├── netflix_dataset.csv       # Original dataset
+
+├── Cleaned_Netflix_dataset.csv            # Cleaned dataset
+
 └── /screenshots                # Optional: Screenshots folder
 
