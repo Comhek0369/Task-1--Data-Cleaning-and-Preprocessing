@@ -32,3 +32,10 @@ Null Replacement
 Screenshort : https://github.com/Comhek0369/Task-1--Data-Cleaning-and-Preprocessing/blob/main/Screenshot%20(290).png
 
 Cleaned:<a href= "https://github.com/Comhek0369/Task-1--Data-Cleaning-and-Preprocessing/blob/main/Cleaned_Netflix_dataset.csv"> clean Netflix Dataset</a>
+## Repository Structure
+├── netflix_cleaning.ipynb      # Main Jupyter notebook
+├── raw_data.csv                # Original dataset
+├── cleaned_data.csv            # Cleaned dataset
+├── README.md                   # This file
+└── /screenshots                # Optional: Screenshots folder
+
